@@ -1,0 +1,40 @@
+//Assignment 2
+document.write("<h1>My New Page</h1>");
+document.querySelector("h1").style.fontSize = '100px';
+document.querySelector("h1").style.color = 'blue';
+document.querySelector("h1").style.fontWeight = 'bold';
+document.querySelector("h1").style.fontFamily = 'Arial';
+document.querySelector("h1").style.textAlign = 'Center';
+// Assignment 3
+console.log("%cElzero %cWeb %cSchool", "color:red; font-size:40px;", "color:green; font-size:40px; font-weight:bold", "color:white; font-size:40px; background-color:Blue;");
+// Assignment 4
+console.group("group 1");
+console.log("message one");
+console.log("message two");
+console.group("child group");
+console.log("message One");
+console.log("message two");
+console.group("Grand child Group")
+console.log("message one");
+console.log("message two");
+console.groupEnd();
+console.groupEnd();
+console.groupEnd();
+console.group("Group 2");
+console.log("Message One");
+console.log("Message Two");
+console.groupEnd();
+// Assignment 5
+console.table([
+    "Elzero",
+    "Ahmed",
+    "Sameh",
+    "Gamal",
+    "Aya",
+]);
+// Assignment 6
+// console.log("Iam In Console");
+// document.write("Iam In Page");
+/*
+console.log("Iam In Console");
+document.write("Iam In Page");*/
