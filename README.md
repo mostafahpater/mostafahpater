@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mostafahpater
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Skills development
 - 📫 How to reach me professional full stack developer
 
