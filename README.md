@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abelhafez</h1>
 
 ###
-
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -31,7 +31,7 @@
 </div>
 
 ###
-
+<h3 align="left">📤 Connect with Me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/mostafahpater/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -48,6 +48,7 @@
 </div>
 
 ###
+🏆 GitHub Trophies:
 
  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> 
 
