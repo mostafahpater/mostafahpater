@@ -48,3 +48,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mostafahpater/mostafahpater/output/snake.svg" alt="Snake animation" />
+
+###
