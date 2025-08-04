@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">React Ntive mobile && Front end React js</h2>
+<h2 align="center">React native mobile && Front end React js</h2>
 
 ###
 <h3 align="left">🛠️ Languages & Tools:</h3>
